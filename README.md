@@ -1,2 +1,2 @@
 # OpenAlgo
-A compilation of all algorithms under one roof.
+A compilation of algorithms in c++.
