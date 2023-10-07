@@ -1,2 +1,2 @@
 # OpenAlgo
-A compilation of algorithms in c++.
+A compilation of algorithms in c , golang, rust and zig.
